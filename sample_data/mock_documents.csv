@@ -1,0 +1,4 @@
+document_id,drive_file_id,file_name,drive_link,status,pdf_path
+mock-001,drive-file-alpha,case_alpha.pdf,https://drive.google.com/file/d/drive-file-alpha/view,new,sample_data/pdfs/case_alpha.pdf
+mock-002,drive-file-beta,case_beta.pdf,https://drive.google.com/file/d/drive-file-beta/view,new,sample_data/pdfs/case_beta.pdf
+mock-003,drive-file-processed,already_done.pdf,https://drive.google.com/file/d/drive-file-processed/view,processed,sample_data/pdfs/already_done.pdf
